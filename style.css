@@ -162,6 +162,16 @@ h1 .blue__text{
     height: 350px;
     background-color: #A259FF;
     border-radius: 50%;
+    position: relative;
+}
+.empty__layout img{
+    width: 380px;
+    height: 30vh;
+    display:block;
+    position: absolute;
+    top: 50px;
+    transform: rotate(20deg);
+
 }
 .product h1{
     padding: 30px 50px;
